@@ -1,12 +1,12 @@
 function add(){
-  a + b
+  1 + 3
 }
 function subtract(){
-a-b
+10 - 5
 }
 function multiply(){
-  a * b
+  5 * 5
 }
 function divide(){
-  a / b
+  10 / 2
 }
