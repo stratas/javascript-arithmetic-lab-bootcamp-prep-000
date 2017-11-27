@@ -9,9 +9,13 @@ b = 3
 function subtract(){
 a - b
 }
+a = 5
+b = 5
 function multiply(){
-  5 * 5
+  a * b
 }
+a = 10
+b = 2
 function divide(){
-  10 / 2
+  a / b
 }
