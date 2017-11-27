@@ -1,6 +1,10 @@
+a = 3
+b = 2
+
 function add(){
-  1 + 3
+  a + b
 }
+
 function subtract(){
 10 - 5
 }
