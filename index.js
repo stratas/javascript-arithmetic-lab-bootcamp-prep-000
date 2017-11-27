@@ -1,21 +1,15 @@
-a = 3
-b = 2
+function add(a, b){
+  return a + b;
+}
 
-function add(){
-  a + b
+function subtract(a, b){
+  return a - b;
 }
-a = 6
-b = 3
-function subtract(){
-a - b
+
+function multiply(a, b){
+  return a * b;
 }
-a = 5
-b = 5
-function multiply(){
-  a * b
-}
-a = 10
-b = 2
-function divide(){
-  a / b
+
+function divide(a, b){
+  return a/b;
 }
